@@ -1,0 +1,8 @@
+{
+  "label": "传统机器学习",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "传统机器学习算法，包括逻辑回归、KNN、K-means等经典算法。"
+  }
+}
